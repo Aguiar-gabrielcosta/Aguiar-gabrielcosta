@@ -13,8 +13,8 @@ Desenvolvedor Front-end, estudante de pós-graduação em Desenvolvimento Full S
 #### Estatísticas GitHub
 
 <div style="display: flex;">
-  <img style="height: 200" src="https://github-readme-stats.vercel.app/api?username=Aguiar-gabrielcosta&show_icons=true&theme=algolia" alt="Aguiar-gabrielcosta's GitHub stats"/>
-  <img style="height: 200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguiar-gabrielcosta&layout=compact&theme=algolia" alt="Top Langs"/>
+  <img height: 200 src="https://github-readme-stats.vercel.app/api?username=Aguiar-gabrielcosta&show_icons=true&theme=algolia" alt="Aguiar-gabrielcosta's GitHub stats"/>
+  <img height: 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguiar-gabrielcosta&layout=compact&theme=algolia" alt="Top Langs"/>
 <div/>
 
 #### Algumas tecnologias do meu dia a dia
