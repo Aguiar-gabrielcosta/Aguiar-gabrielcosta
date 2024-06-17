@@ -1,7 +1,6 @@
 ### Olá, eu sou o Gabriel Aguiar ! 👋
 
 #### Sobre mim 
-<hr style="height: 1px;"/>
 Desenvolvedor Front-end, estudante de pós-graduação em Desenvolvimento Full Stack e formado no curso profissionalizante da EBAC em Desenvolvimento Front-end. Interessado em utilizar da programação para resolver problemas e colaborar para uma melhor experiência das pessoas no contato com a tecnologia.
 
 #### Contatos
