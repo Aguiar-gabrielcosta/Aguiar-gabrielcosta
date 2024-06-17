@@ -12,16 +12,9 @@ Desenvolvedor Front-end, estudante de pós-graduação em Desenvolvimento Full S
 
 #### Estatísticas GitHub
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 <div style="display: flex;">
-  <img height= 200 src="https://github-readme-stats.vercel.app/api?username=Aguiar-gabrielcosta&show_icons=true&theme=algolia" alt="Aguiar-gabrielcosta's GitHub stats"/>
-  <img height= 200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguiar-gabrielcosta&layout=compact&theme=algolia&langs_count=8&card_width=320" alt="Top Langs"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Aguiar-gabrielcosta&show_icons=true&theme=algolia" alt="Aguiar-gabrielcosta's GitHub stats"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aguiar-gabrielcosta&layout=compact&theme=algolia&langs_count=8&card_width=320" alt="Top Langs"/>
 <div/>
 
 #### Algumas tecnologias do meu dia a dia
